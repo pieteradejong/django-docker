@@ -1,2 +1,6 @@
-# django-docker
-deployable djangpo app using Docker and Terraform
+# Django Dockerized
+
+Goal:
+- instantly deployable Djangpo application,
+- containerized using Docker,
+- infrastructure using Terraform.
